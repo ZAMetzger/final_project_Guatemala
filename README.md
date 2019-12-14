@@ -60,3 +60,4 @@ When adding the geography, you can see that the urbanized areas are located so t
 ![](3d_roads_hcf.png)
 
 Guatemala is set up to give those with money and power acess to many things such as health care facilities. Even though the health care facilities are set up in and around the urbanized areas, most of those living in the urbanized areas do not have the financial means to use them.
+
