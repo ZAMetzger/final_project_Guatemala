@@ -30,7 +30,7 @@ The most populated area in the Guatemala department is Guatemala City.
 ### 3D representation of population by department
 ![](3D_guatemala_population.png)
 
-When generating the population using data such as amount of water, topography, ect. My most accurate model came from my summed data. I know this because it had the smallest range of error. The error for my summed data was 8120344, mean was 9344418, logpop was 8188914, and random foresting was 928638. All of the data was similar, but the summed data was slightly more accurate.
+When generating the population using data such as amount of water, topography, ect., my most accurate model came from my summed data. I know this because it had the smallest range of error. The error for my summed data was 8120344, mean was 9344418, logpop was 8188914, and random foresting was 928638. All of the data was similar, but the summed data was slightly more accurate.
 
 ![](diff_sums.png)
 
@@ -45,7 +45,7 @@ By using random foresting I was able to determine which areas had the highest de
 
 I noticed that the richer Zones had lower densities than the poorer zones. 
 
-I focused on Zones 3 and 7 to look into deeper. I mapped out primary, secondary, and tercherary roads. Then I placed the health care facilities and different types of buildings. The roads connected all of the urban populations. All of the health care facilities and commercial buildings were along the roads and within the urbanized areas.
+I focused on Zones 3 and 7 to look into deeper. I mapped out primary, secondary, and tertiary roads. Then I placed the health care facilities and different types of buildings. The roads connected all of the urban populations. All of the health care facilities and commercial buildings were along the roads and within the urbanized areas.
 
 ![](roads_hf_bd.png)
 
@@ -55,7 +55,7 @@ I focused on Zones 3 and 7 to look into deeper. I mapped out primary, secondary,
 |          |Largest population: **32,851 people**|# of secondary: **220**        |# of people per facility: **3,621 people/facility**|
 |          |                                     |Length of roads: **672659.4 m**|                                                   |
 
-When adding the geography, you can see thatthe urbanized areas are located so they are not in the valleys or on the peaks. The peaks are created by volcanos and would be hard to live on. The valleys are where people dump their trash, so very few people would live in them.
+When adding the geography, you can see that the urbanized areas are located so they are not in the vallies or on the peaks. The peaks are created by volcanos and would be hard to live on. The vallies are where people dump their trash, so very few people would live in them.
 
 ![](3d_roads_hcf.png)
 
