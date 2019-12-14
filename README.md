@@ -20,7 +20,7 @@ Then within the Guatemala department there is the largest municipality Guatemala
 ### The Population by department
 ![](adm1_map_bar.png)
 
-As illustrated by the map and bar graph the Guatemala department is by far the most populated area. The northern part of Guatemala is the least populated area. The northern area is mostly used for farming or mining. 
+As illustrated by the map and bar graph the Guatemala department is by far the most populated area. The least populated areas of are mostly used for farming or mining. 
 
 ### Population by municipality
 ![](guatemala_bar_map.png)
