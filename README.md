@@ -27,3 +27,6 @@ As illustrated by the map and bar graph the Guatemala department is by far the m
 
 The most populated area in the Guatemala department is Guatemala City.
 
+### 3D representation of population by department
+![](3D Guatemala Population.png)
+
