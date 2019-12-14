@@ -32,6 +32,6 @@ The most populated area in the Guatemala department is Guatemala City.
 
 When generating the population using data such as amount of water, topography, ect. My most accurate model came from my summed data. I know this because it had the smallest range of error. The error for my summed data was 8120344, mean was 9344418, logpop was 8188914, and random foresting was 928638. All of the data was similar, but the summed data was slightly more accurate.
 
-![](pop_sums.png)
+![](diff_sums.png)
 
 
