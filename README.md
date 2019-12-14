@@ -12,7 +12,7 @@ The map of Guatemala and the Guatemala Department. Guatemala is 1 country, 22 de
 ![](all_layered.png)
 
 
-Then within the Guatemala department there is the largest municipality Guatemala City. The most populated area, according to cencus data, within Guatemala City is Villa Nueva.
+Then within the Guatemala department there is the largest municipality Guatemala City. The most populated area, according to cencus data, within Guatemala City is Villa Nueva. Above are the maps of Villa Nueva and Guatemala City with thier random foresting population estimate and the differencee between the census data and random forest generated population.
 
 
 
