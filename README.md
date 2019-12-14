@@ -43,5 +43,12 @@ By using random foresting I was able to determine which areas had the highest de
 
 ![](zona1_3_4_6_7_8_9_10_18.png)
 
+I noticed that the richer Zones had lower densities than the poorer zones. 
 
+I focused on Zones 3 and 7 to look into deeper. I mapped out primary, secondary, and tercherary roads. Then I placed the health care facilities and different types of buildings. The roads connected all of the urban populations. All of the health care facilities and commercial buildings were along the roads and within the urbanized areas.
 
+![](roads_hf_bd.png)
+
+When adding the geography, you can see thatthe urbanized areas are located so they are not in the valleys or on the peaks. The peaks are created by volcanos and would be hard to live on. The valleys are where people dump their trash, so very few people would live in them.
+
+![](3d_roads_hcf.png)
