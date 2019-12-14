@@ -1,7 +1,7 @@
 # Guatemala
 
 
-This is my final project on Guatemala
+This is my final project on Guatemala. Over the semester I have used random foresting to come up with a more acurate repesentation of Guatemala's population. I used the population data to analize how the urbanized areas are related to roads, health care facilities, and types of buildings.
 
 ## Administrative Boarders
 
