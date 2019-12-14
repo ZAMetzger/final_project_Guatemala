@@ -34,4 +34,12 @@ When generating the population using data such as amount of water, topography, e
 
 ![](diff_sums.png)
 
+When using satalite data to determine population, I looked at the relationship between some variables and their relationship to the population.
+
+![](gtm_relationships_graphs.png)
+
+## Urban Populations
+
+
+
 
