@@ -49,6 +49,12 @@ I focused on Zones 3 and 7 to look into deeper. I mapped out primary, secondary,
 
 ![](roads_hf_bd.png)
 
+|Admin Name|Urban Areas                          |Roadways                       |Health Care Facilities                             |
+|----------|-------------------------------------|-------------------------------|---------------------------------------------------|
+|Zona 3 & 7|# : **5**                            |# of primary : **61**          |# : **48**                                         |
+|          |Largest population: **32,851 people**|# of secondary: **220**        |# of people per facility: **3,621 people/facility**|
+|          |                                     |Length of roads: **672659.4 m**|                                                   |
+
 When adding the geography, you can see thatthe urbanized areas are located so they are not in the valleys or on the peaks. The peaks are created by volcanos and would be hard to live on. The valleys are where people dump their trash, so very few people would live in them.
 
 ![](3d_roads_hcf.png)
