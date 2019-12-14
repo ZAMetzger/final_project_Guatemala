@@ -58,3 +58,5 @@ I focused on Zones 3 and 7 to look into deeper. I mapped out primary, secondary,
 When adding the geography, you can see thatthe urbanized areas are located so they are not in the valleys or on the peaks. The peaks are created by volcanos and would be hard to live on. The valleys are where people dump their trash, so very few people would live in them.
 
 ![](3d_roads_hcf.png)
+
+Guatemala is set up to give those with money and power acess to many things such as health care facilities. Even though the health care facilities are set up in and around the urbanized areas, most of those living in the urbanized areas do not have the financial means to use them.
