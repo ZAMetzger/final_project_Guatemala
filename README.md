@@ -39,7 +39,9 @@ When using satalite data to determine population, I looked at the relationship b
 ![](gtm_relationships_graphs.png)
 
 ## Urban Populations
+By using random foresting I was able to determine which areas had the highest density. The areas with a higher density can be assumed to be more urban. I Found the urban areas in Guatemala City for Zone 1, 3, 4, 6, 7, 8, 9, 10, and 18.
 
+![](zona1_3_4_6_7_8_9_10_18.png)
 
 
 
